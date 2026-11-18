@@ -1,5 +1,16 @@
 # Airline Ticketing System
 
+**Course:** Advanced Programming Practice - Semester 3
+
+### Team Members
+| Registration No. | Student Name |
+| :--- | :--- |
+| RA2511003012384 | MAANIT GUPTA |
+| RA2511003012376 | RAJVEER SINGH BAIS |
+| RA2511003012372 | JAGPREET SINGH |
+
+---
+
 A simple desktop airline ticketing and booking application built with Python Tkinter and MySQL.
 
 ## Features
